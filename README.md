@@ -11,44 +11,39 @@ I am a passionate **Computer Science student** with a strong interest in Web Dev
 
 ### 🛠 Tech Stack
 
-**Languages & Web Development**
+**Languages**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,php,react,nodejs,tailwind,bootstrap,laravel" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,php" />
   </a>
 </p>
 
-**Databases & Tools**
+**Web Development Framework**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,laravel" />
   </a>
 </p>
 
-**Data Science & Analytics**
+
+**Data Science & Analytics Libraries**
 - 📊 **Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
 - 📈 **Tools:** Power BI, DBeaver
 
----
 
-### 💻 Featured Projects
-
-* 🌤️ **Boonpa Sky Watcher (Weather Web Application)** | *Oct 2024*
-  * A front-end weather reporting website developed to display real-time weather conditions.
-  * **Tech Stack:** React.js, Tailwind CSS
-* 🤖 **Electro Classification (Image Recognition Web Page)** | *Aug 2025*
-  * A web application that classifies electronic components from images in real-time. Integrated a Machine Learning model using Teachable Machine.
-  * **Tech Stack:** HTML, JavaScript, Tailwind CSS, Teachable Machine
-* 📝 **Logs-Viewer (System Access Logs)** | *Feb 2026*
-  * A web page designed to display system usage logs seamlessly for a MERN Stack development project.
-  * **Tech Stack:** MERN Stack (MongoDB, Express.js, React.js, Node.js)
-
-### 📊 GitHub Stats
+**Databases**
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true" alt="Yotsakon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+**Tools**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode" />
+  </a>
 </p>
 
 ### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:YOUR-EMAIL@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:noteyotsakon@gmail.com@gmail.com)
