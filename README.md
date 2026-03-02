@@ -10,7 +10,6 @@ I am a passionate **Computer Science student** with a strong interest in Web Dev
 ---
 
 ### 🛠 Tech Stack
-
 **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,11 +24,8 @@ I am a passionate **Computer Science student** with a strong interest in Web Dev
   </a>
 </p>
 
-
 **Data Science & Analytics Libraries**
 - 📊 **Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
-- 📈 **Tools:** Power BI, DBeaver
-
 
 **Databases**
 <p align="left">
@@ -43,6 +39,10 @@ I am a passionate **Computer Science student** with a strong interest in Web Dev
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode" />
   </a>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
 </p>
 
 ### 📫 Connect with me:
