@@ -20,7 +20,7 @@ I am a passionate **Computer Science student** with a strong interest in Web Dev
 **Web Development Framework**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,laravel" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,laravel, express" />
   </a>
 </p>
 
