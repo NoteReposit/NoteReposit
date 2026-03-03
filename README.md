@@ -6,7 +6,7 @@ I am a passionate **Computer Science student** with a strong interest in Web Dev
 
 - 🎓 **Bachelor of Science in Computer Science**
 - 💻 **Full-Stack Web Development** (MERN Stack / Laravel)
-- 📊 **Data Science & Machine Learning**
+- 📊 **Data Science & Analytics**
 - 🌍 **Languages:** Thai (Native) • English (Elementary Proficiency | Focus on Technical Documentation)
 
 ---
