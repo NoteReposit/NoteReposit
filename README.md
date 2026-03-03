@@ -1,49 +1,50 @@
-# Hi there, I'm Yotsakon Mukda 👋
+# Hey there, I'm Yotsakon 👋
 
-### 🚀 About Me
+## 📌 About Me
+
 I am a passionate **Computer Science student** with a strong interest in Web Development and Data Science. I enjoy building applications that solve real-world problems and am always eager to learn new technologies.
 
-- 🎓 Currently pursuing a Bachelor of Science in Computer Science.
-- 💻 Focusing on **Full-Stack Web Development** (MERN Stack / Laravel) and **Data Science/AI**.
-- 🌍 Languages: Thai (Native), English (Focus on Technical Documentation).
+- 🎓 **Bachelor of Science in Computer Science**
+- 💻 **Full-Stack Web Development** (MERN Stack / Laravel)
+- 📊 **Data Science & Machine Learning**
+- 🌍 **Languages:** Thai (Native) • English (Elementary Proficiency | Focus on Technical Documentation)
 
 ---
 
-### 🛠 Tech Stack
-**Languages**
+## 🛠️ **Tech Stack**
+
+### **Languages**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,js,php" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,javascript,html,css,php" alt="Languages"/>
 </p>
 
-**Web Development Framework**
+### **Web Development**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,bootstrap,laravel,express" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,laravel,tailwind,bootstrap" alt="Web Dev"/>
 </p>
 
-**Data Science & Analytics Libraries**
-- 📊 **Libraries:** Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn
-
-**Databases**
+### **Data Science & Analytics**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  </a>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-0C55AA?style=for-the-badge&logoColor=white" alt="Seaborn"/>
 </p>
 
-**Tools**
+### **Databases**
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 </p>
+
+### **Tools & Platforms**
 <p align="left">
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" alt="DBeaver" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" alt="Tools"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
 </p>
+
+---
 
 ### 📫 Connect with me:
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:noteyotsakon@gmail.com@gmail.com)
